@@ -8,7 +8,7 @@ const apikey =  '276d3425c274128d510af370b70dfb82'
 
 const request = async(city) =>
 {
-    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}`
+    const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}`
 
     // make fetch request
 
