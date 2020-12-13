@@ -228,7 +228,6 @@ search.addEventListener('click',(e)=>
 {
     e.preventDefault()
     const city = input.value 
-    //console.log(city)
     request(city)
     .then((data) => 
     {
