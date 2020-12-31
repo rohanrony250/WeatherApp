@@ -266,14 +266,14 @@ body {
 {
     position: relative;
     border-radius: 70px;
-    min-width: 450px; 
-    min-height: 550px;
+    /* min-width: 450px; 
+    min-height: 550px; */
     box-shadow: inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.1),
                 5px 5px 15px rgba(0,0,0, 0.5),
                 -5px -5px 15px rgba(255,255,255, 0.1);
                 
-    left: 10px;
+    
 }
 .back-card
 {
@@ -359,20 +359,20 @@ body {
 {
     position: relative;
     border-radius: 70px;
-    min-width: 470px; 
-    min-height: 550px;
+    /* min-width: 470px; 
+    min-height: 550px; */
     box-shadow: inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.2),
                 5px 5px 15px rgba(0,0,0, 0.5),
                 -5px -5px 15px rgba(255,255,255, 0.1);
                 
-    left: 20px;
+    /* left: 20px; */
 }
 .front-card
 {
     position: absolute;
     border-radius: 70px !important;
-    max-width: 420px !important;
+    max-width: 400px !important;
     min-height: 500px !important;
     max-height: 500px !important;
     box-shadow: 0 30px 90px rgba(0, 0, 0, 1.5),
