@@ -31,7 +31,7 @@ mainicon = (icon) =>
         `
     }
  
-    if(ico.includes('drizzle'))
+    if(icon.includes('drizzle'))
     {
         weathericon.innerHTML = 
         `
