@@ -266,8 +266,8 @@ body {
 {
     position: relative;
     border-radius: 70px;
-    /* min-width: 450px; 
-    min-height: 550px; */
+    min-width: 400px !important;
+    min-height: 550px !important;
     box-shadow: inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.1),
                 5px 5px 15px rgba(0,0,0, 0.5),
