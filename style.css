@@ -266,8 +266,9 @@ body {
 {
     position: relative;
     border-radius: 70px;
-    max-width: 470px;
-    min-height: 550px;
+    max-width: 28rem;
+    /* max-width: 470px; */
+    /* min-height: 550px; */
     box-shadow: inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.1),
                 5px 5px 15px rgba(0,0,0, 0.5),
@@ -290,7 +291,7 @@ body {
                 -5px -5px 15px rgba(255,255,255, 0.1);
     transition: 0.5s;
     top: 10px;
-    left: -23px;               
+    left: -36px;               
 }
 .back-card:hover
 {
@@ -359,9 +360,7 @@ body {
 {
     position: relative;
     border-radius: 70px;
-    max-width: 470px;
-    min-width: 400px; 
-    min-height: 550px;
+    width: 25rem;
     box-shadow: inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.2),
                 5px 5px 15px rgba(0,0,0, 0.5),
@@ -373,10 +372,7 @@ body {
 {
     position: absolute;
     border-radius: 70px !important;
-    max-width: 420px !important;
-    min-width: 400px !important;
     min-height: 500px !important;
-    max-height: 500px !important;
     box-shadow: 0 30px 90px rgba(0, 0, 0, 1.5),
                 inset 5px 5px 5px rgba(0,0,0, 0.5),
                 inset -5px -5px 15px rgba(255,255,255, 0.1),
@@ -384,7 +380,7 @@ body {
                 -5px -5px 15px rgba(255,255,255, 0.1);
     transition: 0.5s;
     overflow: hidden;
-    top: 10px;
+    top: 25px;
     
 }
 .front-card:hover
