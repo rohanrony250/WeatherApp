@@ -279,7 +279,7 @@ body {
 .back-card
 {
     position: absolute;
-    border-radius: 70px !important;
+    border-radius: 60px !important;
     max-width: 400px !important;
     min-height: 500px !important;
     max-height: 500px !important;
